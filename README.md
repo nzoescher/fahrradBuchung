@@ -12,3 +12,5 @@ Wartungsverwaltung für den Fahrradbestand
 ## Tech-Stack
 
 Flutter (Web) · Python · FastAPI · SQLModel / SQLAlchemy · SQLite · REST
+
+   ![Tourenübersicht](docs/screenshot.png)
